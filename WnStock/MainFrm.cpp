@@ -1,4 +1,11 @@
-﻿
+﻿/********************************************************
+Copyright (C), 2016-2017,
+FileName: 	MainFrm
+Author: 	freeman
+Email: 		freelogin@qq.com
+Created: 	2019/06/08
+Description:单文档框架类
+********************************************************/
 // MainFrm.cpp: CMainFrame 类的实现
 //
 
